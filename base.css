@@ -165,7 +165,7 @@ header {
 
 /* コンテナ共通部分の設定 */
 .container {
-	width: 100wh;
+	width: 100vw;
 }
 
 /* トップコンテナ */
